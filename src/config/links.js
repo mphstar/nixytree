@@ -74,7 +74,7 @@ export const siteConfig = {
       number: "20",
       label: "Fisch PS",
       username: "Roblox Profile",
-      url: "https://www.roblox.com/share?code=e87638169d65ce4eaba5679ad0a63f20&type=Server",
+      url: "https://www.roblox.com/share?code=1ff7595a3b0aed4284a5b4e57dbc296b&type=Server",
       image: "/images/eye_blonde_green.png", // Reuse the first image for the 6th card as requested
       align: "right",
       hoverClass: "hover:shadow-[0_0_30px_rgba(20,184,166,0.45)] hover:border-teal-400/60",
