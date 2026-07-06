@@ -10,7 +10,7 @@ export const siteConfig = {
       label: "My Website",
       username: "mphstar.my.id",
       url: "https://www.mphstar.my.id/",
-      image: "/images/eye_blonde_green.png",
+      image: "/images/character_website.png",
       align: "left",
       hoverClass: "hover:shadow-[0_0_30px_rgba(34,197,94,0.45)] hover:border-emerald-400/60",
       accentColor: "#10b981", // emerald
@@ -23,7 +23,7 @@ export const siteConfig = {
       label: "TikTok",
       username: "@mphstar",
       url: "https://www.tiktok.com/@mphstar",
-      image: "/images/eye_mint_purple.png",
+      image: "/images/character_tiktok.png",
       align: "right",
       hoverClass: "hover:shadow-[0_0_30px_rgba(168,85,247,0.45)] hover:border-purple-400/60",
       accentColor: "#a855f7", // purple
@@ -36,7 +36,7 @@ export const siteConfig = {
       label: "Sociabuzz",
       username: "mphstar",
       url: "https://sociabuzz.com/mphstar/tribe?_ref=linkbio",
-      image: "/images/eye_red_amber.png",
+      image: "/images/character_sociabuzz.png",
       align: "left",
       hoverClass: "hover:shadow-[0_0_30px_rgba(234,179,8,0.45)] hover:border-amber-400/60",
       accentColor: "#eab308", // amber
@@ -49,7 +49,7 @@ export const siteConfig = {
       label: "GitHub",
       username: "@mphstar",
       url: "https://github.com/mphstar",
-      image: "/images/eye_blue_red.png",
+      image: "/images/character_github.png",
       align: "right",
       hoverClass: "hover:shadow-[0_0_30px_rgba(59,130,246,0.45)] hover:border-blue-400/60",
       accentColor: "#3b82f6", // blue
@@ -62,7 +62,7 @@ export const siteConfig = {
       label: "Roblox",
       username: "mphstar",
       url: "https://www.roblox.com/users/1738159625/profile",
-      image: "/images/eye_pink_pink.png",
+      image: "/images/character_roblox.png",
       align: "left",
       hoverClass: "hover:shadow-[0_0_30px_rgba(244,63,94,0.45)] hover:border-rose-400/60",
       accentColor: "#f43f5e", // rose
@@ -72,15 +72,15 @@ export const siteConfig = {
     {
       id: 6,
       number: "20",
-      label: "Fisch PS",
-      username: "Roblox Profile",
-      url: "https://www.roblox.com/share?code=1ff7595a3b0aed4284a5b4e57dbc296b&type=Server",
-      image: "/images/eye_blonde_green.png", // Reuse the first image for the 6th card as requested
+      label: "Discord Server",
+      username: "Join Server",
+      url: "https://discord.gg/gszbAyNU5p",
+      image: "/images/character_discord.png",
       align: "right",
-      hoverClass: "hover:shadow-[0_0_30px_rgba(20,184,166,0.45)] hover:border-teal-400/60",
-      accentColor: "#14b8a6", // teal
+      hoverClass: "hover:shadow-[0_0_30px_rgba(88,101,242,0.45)] hover:border-indigo-400/60",
+      accentColor: "#5865f2", // discord blurple
       glassesStyle: "round-clear",
-      description: "", // Keep it empty to test optional behaviour
+      description: "Join my discord server",
     },
   ]
 };
