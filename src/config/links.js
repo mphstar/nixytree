@@ -74,7 +74,7 @@ export const siteConfig = {
       number: "20",
       label: "Discord Server",
       username: "Join Server",
-      url: "https://discord.gg/gszbAyNU5p",
+      url: "https://discord.gg/pqPCVnn7BB",
       image: "/images/character_discord.png",
       align: "right",
       hoverClass: "hover:shadow-[0_0_30px_rgba(88,101,242,0.45)] hover:border-indigo-400/60",
